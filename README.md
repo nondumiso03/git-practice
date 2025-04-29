@@ -1,3 +1,5 @@
-Name: Nondumiso 
-"# Git Practice" 
-"This is a practice repo." 
+<<<<<<< HEAD
+Name: Nondumiso
+=======
+This is a practice repo.
+>>>>>>> main
