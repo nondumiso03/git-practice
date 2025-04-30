@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Name: Nondumiso
-=======
-This is a practice repo.
->>>>>>> main
+-e "## New Feature: Update Top of README\n$(cat README.md)" 
